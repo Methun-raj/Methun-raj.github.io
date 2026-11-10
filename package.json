@@ -1,0 +1,19 @@
+{
+  "name": "methun-raj-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Web Portfolio for Methun Raj A - Front-End Developer & CS Engineer",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend-developer",
+    "react",
+    "deep-learning",
+    "javascript"
+  ],
+  "author": "Methun Raj A <methunraj793@gmail.com>",
+  "license": "MIT"
+}
