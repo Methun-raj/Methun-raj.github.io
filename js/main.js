@@ -279,7 +279,7 @@ function initProjects() {
               <i class="fa-solid fa-arrow-up-right-from-square"></i> Case Study
             </button>
             <div class="project-links">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="btn-icon" title="View Source Code">
+              <a href="https://github.com/Methun-raj" target="_blank" rel="noopener noreferrer" class="btn-icon" title="View Source Code">
                 <i class="fa-brands fa-github"></i>
               </a>
               <a href="#contact" class="btn-icon" title="Discuss Project">
@@ -610,7 +610,7 @@ function openProjectModal(projectId) {
         <a href="#contact" onclick="document.getElementById('project-modal').classList.remove('open'); document.body.style.overflow='';" class="btn btn-primary btn-sm">
           <i class="fa-solid fa-envelope"></i> Inquire About This Project
         </a>
-        <a href="https://github.com" target="_blank" class="btn btn-secondary btn-sm">
+        <a href="https://github.com/Methun-raj" target="_blank" class="btn btn-secondary btn-sm">
           <i class="fa-brands fa-github"></i> Repository
         </a>
       </div>
